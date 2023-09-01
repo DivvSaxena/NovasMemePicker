@@ -1,5 +1,7 @@
 # Nova's Purrfect Meme Maker
 
+<img src="./memelogo.png" width="400px">
+
 Are you tired of endlessly searching for the right meme to match your current mood? Look no further! Nova's Purrfect Meme Maker is here to simplify your meme-finding experience. This web application is designed to provide you with the perfect meme for any occasion, all at your fingertips. Whether you're feeling happy, sad, sarcastic, or just want a good laugh, Nova's Meme Maker has got you covered. 😉
 
 ## Features
