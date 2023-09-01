@@ -38,7 +38,7 @@ To use Nova's Purrfect Meme Maker, simply follow these steps:
 
 ## Development Notes
 
-Nova's Purrfect Meme Maker was created over the course of two days, with a focus on learning and implementing various concepts. Some key takeaways from the development process include:
+Nova's Purrfect Meme Maker was created over the course of two days, with a focus on learning and implementing various concepts , scrimba was really helpful in the process. Some key takeaways from the development process include:
 
 - Understanding and implementing import/export functionality for modular code organization.
 
